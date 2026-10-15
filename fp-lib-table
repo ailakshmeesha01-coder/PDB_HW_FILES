@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "pdc_new") (type "KiCad") (uri "${KIPRJMOD}/pdc_new.pretty") (options "") (descr ""))
+	(lib (name "TPSI3050-Q1") (type "KiCad") (uri "${KIPRJMOD}/pdc_new.pretty/TPSI3050-Q1.pretty") (options "") (descr ""))
+)

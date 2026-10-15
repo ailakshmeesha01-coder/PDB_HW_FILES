@@ -1,0 +1,40 @@
+# KiCad lock files
+~*.lck
+*.lck
+
+# Backups and autosave
+*.bak
+*.bck
+*-bak
+*-backups/
+_autosave-*
+*-save.kicad_pcb
+*-save.pro
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Local history / user-specific UI settings
+.history/
+*.kicad_prl
+
+# Caches and generated output
+fp-info-cache
+*-cache.lib
+*.kicad_sym-bak
+*.zip
+gerbers/
+Gerbers/
+production/
+*.gbr
+*.drl
+*.pos
+*.rpt
+*.net
+*.xml
+*.csv
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
