@@ -1,0 +1,191 @@
+(footprint "URB4805LD-60WR3"
+  (version 20240108)
+  (generator "pcbnew")
+  (generator_version "8.0")
+  (layer "F.Cu")
+  (descr "MORNSUN URB4805LD-60WR3 60W Isolated DC-DC Converter, 5V 12A, DIP-6 (50.8x25.4mm), pin 1 = Ctrl")
+  (tags "DC-DC Mornsun URB4805LD-60WR3 60W")
+  (attr through_hole)
+  (fp_text reference "REF**"
+    (at 0 -14.5 0)
+    (layer "F.SilkS")
+    (effects
+      (font
+        (size 1.27 1.27)
+        (thickness 0.15)
+      )
+    )
+  )
+  (fp_text value "URB4805LD-60WR3"
+    (at 0 14.5 0)
+    (layer "F.Fab")
+    (effects
+      (font
+        (size 1.27 1.27)
+        (thickness 0.15)
+      )
+    )
+  )
+  (fp_text user "Ctrl"
+    (at -19.5 -7.62 0)
+    (layer "F.SilkS")
+    (effects
+      (font
+        (size 1.27 1.27)
+        (thickness 0.15)
+      )
+    )
+  )
+  (fp_text user "GND"
+    (at -19.5 2.54 0)
+    (layer "F.SilkS")
+    (effects
+      (font
+        (size 1.27 1.27)
+        (thickness 0.15)
+      )
+    )
+  )
+  (fp_text user "Vin"
+    (at -19.5 7.62 0)
+    (layer "F.SilkS")
+    (effects
+      (font
+        (size 1.27 1.27)
+        (thickness 0.15)
+      )
+    )
+  )
+  (fp_text user "+Vo"
+    (at 19.0 10.16 0)
+    (layer "F.SilkS")
+    (effects
+      (font
+        (size 1.27 1.27)
+        (thickness 0.15)
+      )
+    )
+  )
+  (fp_text user "0V"
+    (at 19.0 0 0)
+    (layer "F.SilkS")
+    (effects
+      (font
+        (size 1.27 1.27)
+        (thickness 0.15)
+      )
+    )
+  )
+  (fp_text user "Trim"
+    (at 19.0 -10.16 0)
+    (layer "F.SilkS")
+    (effects
+      (font
+        (size 1.27 1.27)
+        (thickness 0.15)
+      )
+    )
+  )
+  (fp_line
+    (start -25.95 -13.25)
+    (end 25.95 -13.25)
+    (stroke
+      (width 0.2)
+      (type solid)
+    )
+    (layer "F.SilkS")
+  )
+  (fp_line
+    (start 25.95 -13.25)
+    (end 25.95 13.25)
+    (stroke
+      (width 0.2)
+      (type solid)
+    )
+    (layer "F.SilkS")
+  )
+  (fp_line
+    (start -25.95 13.25)
+    (end -25.95 -13.25)
+    (stroke
+      (width 0.2)
+      (type solid)
+    )
+    (layer "F.SilkS")
+  )
+  (fp_line
+    (start -25.95 13.25)
+    (end 25.95 13.25)
+    (stroke
+      (width 0.2)
+      (type solid)
+    )
+    (layer "F.SilkS")
+  )
+  (fp_circle
+    (center -22.86 -11)
+    (end -22.36 -11)
+    (stroke
+      (width 0.2)
+      (type solid)
+    )
+    (fill solid)
+    (layer "F.SilkS")
+  )
+  (fp_rect
+    (start -25.4 -12.7)
+    (end 25.4 12.7)
+    (stroke
+      (width 0.1)
+      (type solid)
+    )
+    (fill none)
+    (layer "F.Fab")
+  )
+  (fp_rect
+    (start -26.2 -13.5)
+    (end 26.2 13.5)
+    (stroke
+      (width 0.05)
+      (type solid)
+    )
+    (fill none)
+    (layer "F.CrtYd")
+  )
+  (pad "1" thru_hole circle
+    (at -22.86 -7.62)
+    (size 3.0 3.0)
+    (drill 1.5)
+    (layers "*.Cu" "*.Mask")
+  )
+  (pad "2" thru_hole circle
+    (at -22.86 2.54)
+    (size 3.0 3.0)
+    (drill 1.5)
+    (layers "*.Cu" "*.Mask")
+  )
+  (pad "3" thru_hole circle
+    (at -22.86 7.62)
+    (size 3.0 3.0)
+    (drill 1.5)
+    (layers "*.Cu" "*.Mask")
+  )
+  (pad "4" thru_hole circle
+    (at 22.86 10.16)
+    (size 3.0 3.0)
+    (drill 1.5)
+    (layers "*.Cu" "*.Mask")
+  )
+  (pad "5" thru_hole circle
+    (at 22.86 0)
+    (size 3.0 3.0)
+    (drill 1.5)
+    (layers "*.Cu" "*.Mask")
+  )
+  (pad "6" thru_hole circle
+    (at 22.86 -10.16)
+    (size 3.0 3.0)
+    (drill 1.5)
+    (layers "*.Cu" "*.Mask")
+  )
+)
