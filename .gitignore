@@ -1,4 +1,4 @@
-# KiCad lock files
+﻿# KiCad lock files
 ~*.lck
 *.lck
 
@@ -38,8 +38,3 @@ production/
 Thumbs.db
 desktop.ini
 .vscode/
-
-# Locally imported SnapEDA symbol/footprint libraries (not tracked)
-SMCJ54A/
-SN74HC08D/
-*.step
