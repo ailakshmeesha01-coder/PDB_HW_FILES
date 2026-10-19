@@ -7492,12 +7492,6 @@
 		(uuid "6c5bc741-c824-435b-a0a4-84f8947f4b6e")
 	)
 	(junction
-		(at 256.54 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6cc83715-73f1-4166-b4d5-61546b61ed63")
-	)
-	(junction
 		(at 191.77 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7946,10 +7940,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fee0164d-a69a-4a33-af17-147e60dc65e1")
-	)
-	(no_connect
-		(at 369.57 106.68)
-		(uuid "2aaad991-5247-42ce-a2f0-b108af3fc767")
 	)
 	(no_connect
 		(at 240.03 210.82)
@@ -9882,16 +9872,6 @@
 			(type default)
 		)
 		(uuid "75747b3e-97c6-4924-974e-9cc20ac5bf70")
-	)
-	(wire
-		(pts
-			(xy 256.54 106.68) (xy 369.57 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7586029b-cca9-4ffa-8f50-27244eb1fa56")
 	)
 	(wire
 		(pts
@@ -12185,7 +12165,7 @@
 			(uuid "cfa04554-1033-4438-a4d9-3c29da23780c")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "D7")
 					(unit 1)
@@ -12267,7 +12247,7 @@
 			(uuid "81c4d1b1-fa61-4b02-8c47-3c07d192032a")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R12")
 					(unit 1)
@@ -12348,7 +12328,7 @@
 			(uuid "45f53acb-903c-4401-aab6-b28aca25f9c1")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C25")
 					(unit 1)
@@ -12426,7 +12406,7 @@
 			(uuid "bdf1b0f5-4646-4b1c-9126-6eb07fac323f")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR048")
 					(unit 1)
@@ -12508,7 +12488,7 @@
 			(uuid "0af2ddaa-2842-464b-bab9-b3ff425a561c")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R28")
 					(unit 1)
@@ -12589,7 +12569,7 @@
 			(uuid "dc2ac14d-5adc-4539-9d99-9f7194c9e52a")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C24")
 					(unit 1)
@@ -12667,7 +12647,7 @@
 			(uuid "79f4529e-2f0f-41f6-a411-ba03634555c7")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR09")
 					(unit 1)
@@ -12744,7 +12724,7 @@
 			(uuid "cf438475-8c3d-491b-9803-d26040b583bf")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG01")
 					(unit 1)
@@ -12784,7 +12764,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPSI3050_Q1:DWZ0008A-MFG"
+		(property "Footprint" "ul_TPSI3050QDWZRQ1:DWZ0008A-MFG"
 			(at 191.77 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -12844,7 +12824,7 @@
 			(uuid "d83b49fd-4a68-495d-9a4a-9c8234cbcd76")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U3")
 					(unit 1)
@@ -12922,7 +12902,7 @@
 			(uuid "488b34e4-ab6a-4049-8275-c568dffd69d3")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR05")
 					(unit 1)
@@ -13005,7 +12985,7 @@
 			(uuid "9da79180-1075-4910-9103-9263190cf5cb")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J6")
 					(unit 1)
@@ -13087,7 +13067,7 @@
 			(uuid "bc1d620b-aec7-4b57-8916-c83473c4e143")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C11")
 					(unit 1)
@@ -13169,7 +13149,7 @@
 			(uuid "fd5adfed-73c0-4e56-84d8-e7eba6be9a82")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R25")
 					(unit 1)
@@ -13209,7 +13189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IPB017N10N5ATMA1_INF"
+		(property "Footprint" "ul_IPB017N10N5ATMA1:IPB017N10N5ATMA1_INF"
 			(at 85.09 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -13266,7 +13246,7 @@
 			(uuid "a6567c13-0ced-4046-b113-607fcafc0587")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U6")
 					(unit 1)
@@ -13347,7 +13327,7 @@
 			(uuid "34971639-b827-48d0-b158-993375b95059")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R8")
 					(unit 1)
@@ -13548,7 +13528,7 @@
 			(uuid "f9481a59-8d9a-4554-9c66-d352f59712ab")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U8")
 					(unit 1)
@@ -13626,7 +13606,7 @@
 			(uuid "9a69426f-292f-42c0-a00e-55a62bedf07d")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR011")
 					(unit 1)
@@ -13704,7 +13684,7 @@
 			(uuid "f3f228fc-0b70-4a83-be17-a9d7fca951ed")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR036")
 					(unit 1)
@@ -13746,7 +13726,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 383.54 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -13822,7 +13802,7 @@
 			(uuid "606b444b-6fd9-4a63-9efd-d3dd23b5c04e")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U4")
 					(unit 3)
@@ -13901,7 +13881,7 @@
 			(uuid "ac127638-440c-4aed-81b9-c1c1e1138948")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R10")
 					(unit 1)
@@ -13980,7 +13960,7 @@
 			(uuid "6dc43692-7173-481f-b3f8-57dabcab842d")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG010")
 					(unit 1)
@@ -14063,7 +14043,7 @@
 			(uuid "8c9e6bcd-3096-4ee3-a223-b5a48aada2c1")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C1")
 					(unit 1)
@@ -14146,7 +14126,7 @@
 			(uuid "cf928166-b472-47c1-8040-3c60e6854311")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J2")
 					(unit 1)
@@ -14224,7 +14204,7 @@
 			(uuid "9a51cfd5-c91d-461e-93bf-fde2368a601b")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR021")
 					(unit 1)
@@ -14302,7 +14282,7 @@
 			(uuid "308e4f45-2b27-4834-b8b9-38a5f49e1b28")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR020")
 					(unit 1)
@@ -14521,7 +14501,7 @@
 			(uuid "872ce8cb-941b-44d2-9b2a-264889b3e670")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "Q2")
 					(unit 1)
@@ -14598,7 +14578,7 @@
 			(uuid "bce296bc-51bb-4c35-946b-d1d35c21c867")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR02")
 					(unit 1)
@@ -14675,7 +14655,7 @@
 			(uuid "4f36abfe-5c81-4e75-a2c2-29b440ff935f")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR039")
 					(unit 1)
@@ -14752,7 +14732,7 @@
 			(uuid "a2e9713e-2a36-4a63-8523-3b310ee1614c")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR037")
 					(unit 1)
@@ -14832,7 +14812,7 @@
 			(uuid "b257b540-d2cd-4245-96be-f0232099d6e1")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R1")
 					(unit 1)
@@ -14914,7 +14894,7 @@
 			(uuid "3c9ef094-28bc-465e-bc95-25a851be44a6")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R18")
 					(unit 1)
@@ -14998,7 +14978,7 @@
 			(uuid "697b68e3-ba33-4cb2-89e1-d88ad7336a82")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J12")
 					(unit 1)
@@ -15079,7 +15059,7 @@
 			(uuid "dcf7e692-dcab-4589-8adb-d659849afadf")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J15")
 					(unit 1)
@@ -15157,7 +15137,7 @@
 			(uuid "951c156c-f938-4b05-92aa-5f323befb4fe")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR013")
 					(unit 1)
@@ -15240,7 +15220,7 @@
 			(uuid "61fca1bb-413a-485f-a132-3f26daaa1de8")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C3")
 					(unit 1)
@@ -15319,7 +15299,7 @@
 			(uuid "f96aec65-cb71-4cc8-aa04-e9f6d2fad389")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG06")
 					(unit 1)
@@ -15401,7 +15381,7 @@
 			(uuid "ea1d0856-614d-4511-86de-45c374805d2e")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R13")
 					(unit 1)
@@ -15484,7 +15464,7 @@
 			(uuid "7c2f1e5c-7c86-42c2-bb6e-46c0eba66e4d")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C4")
 					(unit 1)
@@ -15524,7 +15504,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SN74HC14DR:SOIC127P600X175-14N"
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 306.07 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -15698,7 +15678,7 @@
 			(uuid "4aa361d4-74af-44b1-b8d4-b42740333c70")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U9")
 					(unit 1)
@@ -15740,7 +15720,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "B2B-XH-A__LF__SN_:JST_B2B-XH-A__LF__SN_"
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 			(at 345.44 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -15926,7 +15906,7 @@
 			(uuid "96755ecd-dfc5-4a14-8eee-fbede4a54b75")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J14")
 					(unit 1)
@@ -16008,7 +15988,7 @@
 			(uuid "5d41b11b-4ef1-4ee2-a8b2-fd5a51102778")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R17")
 					(unit 1)
@@ -16090,7 +16070,7 @@
 			(uuid "f1a09dad-100c-4f0a-9547-b84e7d5d106e")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R2")
 					(unit 1)
@@ -16170,7 +16150,7 @@
 			(uuid "578a97ae-158f-457b-b3a2-d9a74db8f7ac")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C22")
 					(unit 1)
@@ -16251,7 +16231,7 @@
 			(uuid "71b8353a-af52-4cb7-919e-33f618721ad8")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C16")
 					(unit 1)
@@ -16328,7 +16308,7 @@
 			(uuid "12f84178-9835-4dbe-8d07-4da090513df1")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR017")
 					(unit 1)
@@ -16370,7 +16350,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "fuse:FUSE_3568-15"
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
 			(at 81.28 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -16477,7 +16457,7 @@
 			(uuid "aa72494b-ec8a-43d8-b0c9-02278f782d00")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "F4")
 					(unit 1)
@@ -16554,7 +16534,7 @@
 			(uuid "1879a878-684f-40b6-9f21-f7b7af096370")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR023")
 					(unit 1)
@@ -16635,7 +16615,7 @@
 			(uuid "792ec332-124d-4324-bdc7-98403e38e6ca")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C9")
 					(unit 1)
@@ -16716,7 +16696,7 @@
 			(uuid "84d16b2e-234a-455b-a84a-b337ffbf1634")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C26")
 					(unit 1)
@@ -16793,7 +16773,7 @@
 			(uuid "a3569bfa-bab0-409c-a14e-3ef6cc376230")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR041")
 					(unit 1)
@@ -16870,7 +16850,7 @@
 			(uuid "134cef88-e816-4ef2-99b4-aca570977c81")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG07")
 					(unit 1)
@@ -16951,7 +16931,7 @@
 			(uuid "e44d3b98-1a8d-45ff-a4b7-a73bd4bfb95a")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C18")
 					(unit 1)
@@ -17033,7 +17013,7 @@
 			(uuid "c16584bd-2661-4bd6-93db-89d7203075aa")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C19")
 					(unit 1)
@@ -17111,7 +17091,7 @@
 			(uuid "b27d464d-843b-4fad-adf9-dd9e40c2e7a9")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR030")
 					(unit 1)
@@ -17193,7 +17173,7 @@
 			(uuid "b4d910b2-2dd2-48b8-a9e9-591b803f3fa0")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R11")
 					(unit 1)
@@ -17271,7 +17251,7 @@
 			(uuid "5ae3b5da-ba6e-48cb-85e9-2b01da78ede7")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR08")
 					(unit 1)
@@ -17311,7 +17291,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NexusPDB:URB4805LD-60WR3"
+		(property "Footprint" "URB4805LD-60WR3:URB48_LD-60WR3"
 			(at 68.58 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -17385,7 +17365,7 @@
 			(uuid "e7a7a230-0b6a-4561-a7be-90fd6b97c575")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U5")
 					(unit 1)
@@ -17427,7 +17407,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 344.17 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -17503,7 +17483,7 @@
 			(uuid "606b444b-6fd9-4a63-9efd-d3dd23b5c04f")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U4")
 					(unit 1)
@@ -17586,7 +17566,7 @@
 			(uuid "c05fe841-26d6-403b-ae17-f7797617311c")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C2")
 					(unit 1)
@@ -17688,7 +17668,7 @@
 			(uuid "f0688db6-ebf7-4f5b-bb8b-f7aaa127c70e")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "D3")
 					(unit 1)
@@ -17770,7 +17750,7 @@
 			(uuid "f32224b4-2366-434d-a7ba-d6da4d32504e")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R19")
 					(unit 1)
@@ -17848,7 +17828,7 @@
 			(uuid "c2e5d851-9a99-4cea-9abc-a77c67a32011")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR012")
 					(unit 1)
@@ -17945,7 +17925,7 @@
 			(uuid "09511059-f340-40b1-b156-a0ad446ebf9f")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U7")
 					(unit 1)
@@ -18022,7 +18002,7 @@
 			(uuid "513e20b9-11e6-4bdb-97c2-5cb444cb5015")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR033")
 					(unit 1)
@@ -18103,7 +18083,7 @@
 			(uuid "1d7bca1d-d7ef-4b9f-8bd5-fc776db05155")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C17")
 					(unit 1)
@@ -18182,7 +18162,7 @@
 			(uuid "721abd46-2368-4752-8cf0-3e21213a32f1")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG05")
 					(unit 1)
@@ -18262,7 +18242,7 @@
 			(uuid "33835288-5f23-4639-bcf9-e8561706fa73")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R29")
 					(unit 1)
@@ -18345,7 +18325,7 @@
 			(uuid "d8f59750-858d-4aad-94c2-fdae1570d010")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J10")
 					(unit 1)
@@ -18427,7 +18407,7 @@
 			(uuid "bf2fc278-0eee-4d45-b2f9-720d94a10464")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R26")
 					(unit 1)
@@ -18505,7 +18485,7 @@
 			(uuid "a5be159e-f958-4df9-9223-2a4d750c186b")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR028")
 					(unit 1)
@@ -18545,7 +18525,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IPB017N10N5ATMA1_INF"
+		(property "Footprint" "ul_IPB017N10N5ATMA1:IPB017N10N5ATMA1_INF"
 			(at 71.12 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -18602,7 +18582,7 @@
 			(uuid "9e17aec2-d6b9-4224-a391-fb519a492e5a")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U14")
 					(unit 1)
@@ -18680,7 +18660,7 @@
 			(uuid "a94e0c7a-f07c-4cda-ac62-b7b98efe422a")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR010")
 					(unit 1)
@@ -18757,7 +18737,7 @@
 			(uuid "6f165b6c-ebac-4a91-ac20-3f9284a26d61")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG02")
 					(unit 1)
@@ -18839,7 +18819,7 @@
 			(uuid "ef51a4e3-6c55-43aa-b904-29d3a5feb9b0")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R6")
 					(unit 1)
@@ -18921,7 +18901,7 @@
 			(uuid "0047f06e-4da2-406a-a05b-47ac35c8b764")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R16")
 					(unit 1)
@@ -19014,7 +18994,7 @@
 			(uuid "0b2cb012-27a4-451a-8fa9-a02037c21711")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "D6")
 					(unit 1)
@@ -19056,7 +19036,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "fuse:FUSE_3568-15"
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
 			(at 34.29 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -19163,7 +19143,7 @@
 			(uuid "5285ef8a-1965-4edb-9800-32061cc5f681")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "F2")
 					(unit 1)
@@ -19245,7 +19225,7 @@
 			(uuid "c5a79efd-5c03-4600-a98d-328396311186")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R3")
 					(unit 1)
@@ -19323,7 +19303,7 @@
 			(uuid "af7a2743-d84a-4efb-973c-ef22d135076f")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR045")
 					(unit 1)
@@ -19401,7 +19381,7 @@
 			(uuid "b51224cd-cb5a-4a97-a0e7-027ec181d635")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR025")
 					(unit 1)
@@ -19479,7 +19459,7 @@
 			(uuid "dd367b94-b48f-4c6c-986c-d1f1fb02d817")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR043")
 					(unit 1)
@@ -19561,7 +19541,7 @@
 			(uuid "fd545e97-75a2-47bc-9bdf-9e19e43dedb5")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R21")
 					(unit 1)
@@ -19639,7 +19619,7 @@
 			(uuid "56861528-2ce9-4daf-ab88-653cbd615963")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR046")
 					(unit 1)
@@ -19721,7 +19701,7 @@
 			(uuid "6e5a2ca5-7fcc-49da-a989-250f9f72f6a1")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C13")
 					(unit 1)
@@ -19803,7 +19783,7 @@
 			(uuid "363b2b58-a9d7-4a8a-bd3f-dcb09b1fcf20")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C23")
 					(unit 1)
@@ -19881,7 +19861,7 @@
 			(uuid "6e27e833-b8bd-4e29-b6ff-1570d4ecda81")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR032")
 					(unit 1)
@@ -19959,7 +19939,7 @@
 			(uuid "82e9175a-12ad-48f3-aa4c-ae2349942d2a")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR044")
 					(unit 1)
@@ -20040,7 +20020,7 @@
 			(uuid "826bcf73-15e5-4387-a28a-9131c8f363a2")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R30")
 					(unit 1)
@@ -20118,7 +20098,7 @@
 			(uuid "36cff219-fd82-4eb6-858d-0e1d27b9636c")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR029")
 					(unit 1)
@@ -20196,7 +20176,7 @@
 			(uuid "d80292b3-4b2e-4dd4-afd2-ff32bfcd08eb")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR053")
 					(unit 1)
@@ -20277,7 +20257,7 @@
 			(uuid "a6bd2040-a069-49a4-8a57-1dcf6d2f8189")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C5")
 					(unit 1)
@@ -20354,7 +20334,7 @@
 			(uuid "890b436b-474d-481d-bf10-738a5279c9cf")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR06")
 					(unit 1)
@@ -20431,7 +20411,7 @@
 			(uuid "73fd0cfe-e6c3-4697-aedf-c351fc0f2a75")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR040")
 					(unit 1)
@@ -20514,7 +20494,7 @@
 			(uuid "bd24d8ae-eca6-4807-91bb-90fd116b9f1a")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J5")
 					(unit 1)
@@ -20616,7 +20596,7 @@
 			(uuid "eea640c9-5e8d-40e3-9a2a-ece59b89c87b")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "D1")
 					(unit 1)
@@ -20696,7 +20676,7 @@
 			(uuid "54b58b67-15f3-46f3-8b42-508485f2b83f")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R24")
 					(unit 1)
@@ -20775,7 +20755,7 @@
 			(uuid "ad9e0e9a-d46a-4ad2-ae75-f1436c491804")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG08")
 					(unit 1)
@@ -20853,7 +20833,7 @@
 			(uuid "51df3f58-52ed-4295-8a5e-a54821804e62")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR042")
 					(unit 1)
@@ -21079,7 +21059,7 @@
 			(uuid "05705456-aabf-4d84-a45a-d81c33cfb848")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "D2")
 					(unit 1)
@@ -21157,7 +21137,7 @@
 			(uuid "d98defb3-0749-4e73-9313-9ce15d40c227")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR031")
 					(unit 1)
@@ -21238,7 +21218,7 @@
 			(uuid "6e4aef03-fee6-4717-af97-7a4f055c1b1a")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C21")
 					(unit 1)
@@ -21316,7 +21296,7 @@
 			(uuid "b76cb51e-b200-49e2-8248-89d51b4c8633")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG04")
 					(unit 1)
@@ -21393,7 +21373,7 @@
 			(uuid "0ca05df8-2eb5-47d5-b296-bfcd6e5b28fe")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR026")
 					(unit 1)
@@ -21433,7 +21413,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPSI3050_Q1:DWZ0008A-MFG"
+		(property "Footprint" "ul_TPSI3050QDWZRQ1:DWZ0008A-MFG"
 			(at 78.74 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -21493,7 +21473,7 @@
 			(uuid "fd26a07e-7966-4944-a05f-65e52c042a15")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U2")
 					(unit 1)
@@ -21575,7 +21555,7 @@
 			(uuid "373f7f0d-64f2-4d43-80b4-a5a7ace7b221")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R27")
 					(unit 1)
@@ -21654,7 +21634,7 @@
 			(uuid "e0c0eec0-9353-4a02-b9c3-b732b2be60ba")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG09")
 					(unit 1)
@@ -21868,7 +21848,7 @@
 			(uuid "fcf0ae8e-7936-47d9-8f23-eca4ec0d8b63")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J13")
 					(unit 1)
@@ -21950,7 +21930,7 @@
 			(uuid "a6efb141-fa8f-400e-837b-b1ae8b32ecdb")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C14")
 					(unit 1)
@@ -21992,7 +21972,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 365.76 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -22068,7 +22048,7 @@
 			(uuid "606b444b-6fd9-4a63-9efd-d3dd23b5c050")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U4")
 					(unit 2)
@@ -22150,7 +22130,7 @@
 			(uuid "6e0a9f93-3bdb-49b2-8e80-248a9e9d5814")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R22")
 					(unit 1)
@@ -22237,7 +22217,7 @@
 			(uuid "f1ca232c-70a8-4e87-8b89-060cde2f2eb4")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "Q1")
 					(unit 1)
@@ -22318,7 +22298,7 @@
 			(uuid "3a6d5e28-135e-47af-8eb1-80fdb361af04")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C6")
 					(unit 1)
@@ -22396,7 +22376,7 @@
 			(uuid "570fb00c-fd13-4999-8c3d-748ca05fb764")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR027")
 					(unit 1)
@@ -22478,7 +22458,7 @@
 			(uuid "f9f082dd-eb7c-4a9d-8609-8d3c2f2364ab")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C12")
 					(unit 1)
@@ -22518,7 +22498,7 @@
 				)
 			)
 		)
-		(property "Footprint" "D0008A-IPC_A"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 339.09 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -22578,7 +22558,7 @@
 			(uuid "4b8e2809-b1a4-400a-8ad4-18835f1f08f6")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U10")
 					(unit 2)
@@ -22617,7 +22597,7 @@
 				)
 			)
 		)
-		(property "Footprint" "D0008A-IPC_A"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 287.02 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -22677,7 +22657,7 @@
 			(uuid "4b8e2809-b1a4-400a-8ad4-18835f1f08f7")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U10")
 					(unit 1)
@@ -22755,7 +22735,7 @@
 			(uuid "5782d209-9119-48a5-abfa-c91989e00c10")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR035")
 					(unit 1)
@@ -22832,7 +22812,7 @@
 			(uuid "1f89d161-73fb-40d1-8f9b-021eb71091af")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR051")
 					(unit 1)
@@ -22910,7 +22890,7 @@
 			(uuid "327b6331-9607-4dc4-bbe0-7387e9984945")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR07")
 					(unit 1)
@@ -22987,7 +22967,7 @@
 			(uuid "72ee4c10-4c39-4621-be88-5330bf269d3c")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR049")
 					(unit 1)
@@ -23027,7 +23007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IPB017N10N5ATMA1_INF"
+		(property "Footprint" "ul_IPB017N10N5ATMA1:IPB017N10N5ATMA1_INF"
 			(at 180.34 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -23084,7 +23064,7 @@
 			(uuid "eea36290-3203-46c3-abc6-379c42a9b05e")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U11")
 					(unit 1)
@@ -23162,7 +23142,7 @@
 			(uuid "55dcd949-a2f9-43b5-8fbb-85fad3f9cf8e")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR047")
 					(unit 1)
@@ -23202,7 +23182,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IPB017N10N5ATMA1_INF"
+		(property "Footprint" "ul_IPB017N10N5ATMA1:IPB017N10N5ATMA1_INF"
 			(at 71.12 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -23259,7 +23239,7 @@
 			(uuid "1020dfbf-52ce-4847-aeab-61e458c552c7")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U12")
 					(unit 1)
@@ -23342,7 +23322,7 @@
 			(uuid "d7f70207-6d72-4f49-a01a-4e84237a2482")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J9")
 					(unit 1)
@@ -23425,7 +23405,7 @@
 			(uuid "4100b9d7-b5aa-46bb-a558-8819c13209de")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J7")
 					(unit 1)
@@ -23543,7 +23523,7 @@
 			(uuid "f8924a0e-f8dc-4d86-8178-086111e9a035")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "RV1")
 					(unit 1)
@@ -23626,7 +23606,7 @@
 			(uuid "55eb79dd-2861-4e5e-b282-958454f681e6")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J4")
 					(unit 1)
@@ -23666,7 +23646,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPSI3050_Q1:DWZ0008A-MFG"
+		(property "Footprint" "ul_TPSI3050QDWZRQ1:DWZ0008A-MFG"
 			(at 120.65 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -23726,7 +23706,7 @@
 			(uuid "61d970cc-0253-4da9-bd10-6b69c7c27940")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U1")
 					(unit 1)
@@ -23828,7 +23808,7 @@
 			(uuid "5c5e3dbb-1278-40bb-a050-dd72c98c5526")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "D5")
 					(unit 1)
@@ -23910,7 +23890,7 @@
 			(uuid "7f77474c-6c96-40af-b99d-2fe7a561ac70")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R15")
 					(unit 1)
@@ -23988,7 +23968,7 @@
 			(uuid "98d7e64a-4184-4abe-be2d-f7c6a0738151")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR022")
 					(unit 1)
@@ -24066,7 +24046,7 @@
 			(uuid "18f32042-00e6-4373-b1dd-45bdb687858d")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR015")
 					(unit 1)
@@ -24144,7 +24124,7 @@
 			(uuid "ce5d02f4-2564-4340-b99b-3158c7afc157")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG03")
 					(unit 1)
@@ -24224,7 +24204,7 @@
 			(uuid "772224b2-45fa-4ab5-b54f-2b56e3c73f5b")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C8")
 					(unit 1)
@@ -24306,7 +24286,7 @@
 			(uuid "32bd884f-c6b7-4f3d-8131-b0a684a30eb6")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R20")
 					(unit 1)
@@ -24388,7 +24368,7 @@
 			(uuid "058fbb62-016b-4346-8d46-bb532385848b")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R23")
 					(unit 1)
@@ -24471,7 +24451,7 @@
 			(uuid "f958485f-5d6a-47b4-a91e-8a33459abb9b")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J3")
 					(unit 1)
@@ -24553,7 +24533,7 @@
 			(uuid "b238fa80-c55a-4f71-bc9c-e50620f2c258")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C10")
 					(unit 1)
@@ -24631,7 +24611,7 @@
 			(uuid "bce8f245-a142-4b55-9758-93472fbac953")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR014")
 					(unit 1)
@@ -24709,7 +24689,7 @@
 			(uuid "1db61957-09f1-447e-8d5d-2ea120f4b0d2")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR019")
 					(unit 1)
@@ -24787,7 +24767,7 @@
 			(uuid "2adf0686-7b8f-4592-af99-8170ac9b3be9")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR038")
 					(unit 1)
@@ -24868,7 +24848,7 @@
 			(uuid "480ed514-20af-40c6-b66f-352755e10b91")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C15")
 					(unit 1)
@@ -24949,7 +24929,7 @@
 			(uuid "e93e14de-31e9-4e10-ac50-8caaecbe0967")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R9")
 					(unit 1)
@@ -25032,7 +25012,7 @@
 			(uuid "a2bb5ccb-90b6-4c28-9ff6-50001f9cd479")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J8")
 					(unit 1)
@@ -25072,7 +25052,7 @@
 				)
 			)
 		)
-		(property "Footprint" "fuse:FUSE_3568-15"
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
 			(at 133.35 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -25179,7 +25159,7 @@
 			(uuid "048a2b07-f33c-4ea2-bc44-7c5f54b057b6")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "F3")
 					(unit 1)
@@ -25261,7 +25241,7 @@
 			(uuid "8ea88e0f-906c-4c5b-b165-aa4eae0f3024")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R31")
 					(unit 1)
@@ -25343,7 +25323,7 @@
 			(uuid "76b22d28-985b-4125-a029-8421dc3df3fe")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R4")
 					(unit 1)
@@ -25421,7 +25401,7 @@
 			(uuid "5ead9a1c-366a-4de6-8e89-7e1e2cee2039")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR016")
 					(unit 1)
@@ -25461,7 +25441,7 @@
 				)
 			)
 		)
-		(property "Footprint" "fuse:FUSE_3568-15"
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
 			(at 58.42 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -25568,7 +25548,7 @@
 			(uuid "7cd44053-9e2f-4491-807b-c22ef5bbdcd9")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "F1")
 					(unit 1)
@@ -25650,7 +25630,7 @@
 			(uuid "02366bc7-703f-4d13-81aa-f2a53de93370")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J1")
 					(unit 1)
@@ -25727,7 +25707,7 @@
 			(uuid "a37119b4-9266-4bd1-8604-b78bd69082ff")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR050")
 					(unit 1)
@@ -25805,7 +25785,7 @@
 			(uuid "2311aa76-f820-4e9b-8e6d-8fdd6bc71d5f")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR052")
 					(unit 1)
@@ -25886,7 +25866,7 @@
 			(uuid "d10c2596-57ee-4ef2-bc17-88ebe9a93dd9")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C20")
 					(unit 1)
@@ -25963,7 +25943,7 @@
 			(uuid "c3f23b66-9d60-44a5-ae84-288d1172835c")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR034")
 					(unit 1)
@@ -26045,7 +26025,7 @@
 			(uuid "c449d9e5-0381-431c-9fa5-87509cbfd704")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R14")
 					(unit 1)
@@ -26265,7 +26245,7 @@
 			(uuid "100aeedf-8df6-4366-a604-c4bb697761ed")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "S1")
 					(unit 1)
@@ -26343,7 +26323,7 @@
 			(uuid "8a6302ec-ccf5-4b9b-8975-cb034a4ad007")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR04")
 					(unit 1)
@@ -26425,7 +26405,7 @@
 			(uuid "154655af-8c18-4f77-82be-816d7c66e9af")
 		)
 		(instances
-			(project "PDC_new (2)"
+			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R7")
 					(unit 1)
