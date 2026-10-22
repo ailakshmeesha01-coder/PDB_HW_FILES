@@ -38,3 +38,11 @@ production/
 Thumbs.db
 desktop.ini
 .vscode/
+
+# 3D models (kept locally, not versioned)
+*.step
+*.STEP
+*.stp
+*.STP
+*.wrl
+*.WRL
