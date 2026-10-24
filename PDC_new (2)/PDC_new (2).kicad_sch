@@ -6579,8 +6579,16 @@
 		(uuid "432fee68-166c-4ce2-87ae-6028d90fc198")
 	)
 	(no_connect
+		(at 355.6 142.24)
+		(uuid "4f1c57cd-39d5-4269-8167-46963980ec7b")
+	)
+	(no_connect
 		(at 398.78 55.88)
 		(uuid "a4fc4e7b-a002-4061-9c6a-6f16faf7d2f1")
+	)
+	(no_connect
+		(at 320.04 142.24)
+		(uuid "d579f869-0c40-4fe8-a269-89bac80a05ea")
 	)
 	(no_connect
 		(at 492.76 36.83)
@@ -7325,16 +7333,6 @@
 			(type default)
 		)
 		(uuid "66eb0286-f6d8-477e-b392-4749708970d1")
-	)
-	(wire
-		(pts
-			(xy 355.6 142.24) (xy 358.14 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "672996fe-3f53-464f-8b63-f119b773b373")
 	)
 	(wire
 		(pts
@@ -8208,16 +8206,6 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 142.24) (xy 317.5 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da0e1891-434e-45f9-a4f8-3d07354aa7d5")
-	)
-	(wire
-		(pts
 			(xy 219.71 246.38) (xy 219.71 243.84)
 		)
 		(stroke
@@ -8986,16 +8974,6 @@
 		)
 		(uuid "378d3449-aec4-4eab-b3c9-03731ef06eac")
 	)
-	(label "RUN_OK"
-		(at 317.5 142.24 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3b9eb123-3d71-4b87-9403-be7d90581c1b")
-	)
 	(label "reset_N"
 		(at 450.85 138.43 180)
 		(effects
@@ -9205,16 +9183,6 @@
 			(justify left bottom)
 		)
 		(uuid "5c7456a9-57ef-42dc-81e8-06d682fb1624")
-	)
-	(label "EN_BLEED"
-		(at 358.14 142.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5c8d1f24-0388-4468-b451-ec7a8f895fa5")
 	)
 	(label "BUS+"
 		(at 377.19 251.46 180)
@@ -18602,7 +18570,6 @@
 		)
 		(property "Footprint" "XT90PW-F:AMASS_XT90PW-F"
 			(at 34.29 185.42 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
