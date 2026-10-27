@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.6,
-          "width": 1.95
+          "drill": 9.2,
+          "height": 13.2,
+          "width": 11.4
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -60,10 +60,10 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.6,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -527,7 +527,7 @@
   "pcbnew": {
     "last_paths": {
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "plot": "",
       "specctra_dsn": "",
       "step": "",
@@ -665,7 +665,7 @@
         "uuid": "671abb5b-543a-4728-a531-5a7ec9a38d76"
       }
     ],
-    "used_designators": "#PWR1,#PWR40,U13",
+    "used_designators": "#PWR1,#PWR40,J13,U13",
     "variants": []
   },
   "sheets": [
