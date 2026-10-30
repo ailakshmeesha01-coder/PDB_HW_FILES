@@ -12,7 +12,7 @@ KiCad hardware design files for the **Power Distribution Board (PDB)**. The boar
 | `PDC_new.kicad_sch` | Schematic |
 | `PDC_new.kicad_pcb` | PCB layout |
 | `fp-lib-table` | Project footprint library table |
-| `pdc_new.pretty/` | Custom project footprints (e.g. TPSI3050-Q1 `SOIC-8_DWZ_7.5x5.85mm_P1.27mm`) |
+| `Libraries/` | Symbol, footprint and vendor libraries (custom footprints in `Libraries/pdc_new.pretty/`, e.g. TPSI3050-Q1 `SOIC-8_DWZ_7.5x5.85mm_P1.27mm`) |
 
 ## Key components
 
@@ -39,7 +39,7 @@ Then open `PDC_new.kicad_pro` in KiCad. The custom footprint library loads autom
 
 - Close KiCad (or save everything) before committing, so you don't commit a half-saved state.
 - Commit the `.kicad_pro`, `.kicad_sch`, `.kicad_pcb` and footprint files only. Lock files, backups, local history, `*.kicad_prl` and fabrication outputs are excluded by `.gitignore`.
-- Put new custom footprints in `pdc_new.pretty/` so the project stays self-contained.
+- Put new symbols and footprints in `Libraries/` so the project stays self-contained.
 - Use clear commit messages, e.g. `sch: wire TPSI3050 enable path` or `pcb: route battery input`.
 
 ## Roadmap
