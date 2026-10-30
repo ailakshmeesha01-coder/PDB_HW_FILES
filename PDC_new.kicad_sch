@@ -5631,376 +5631,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "XT90I:XT90PW-F"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at -10.16 3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "XT90PW-F"
-				(at -10.16 -7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "XT90PW-F:AMASS_XT90PW-F"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Socket, DC supply, XT90, female, PIN:2, on PCBs, THT"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MF" "AMASS"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "10.3 mm"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Package" "Package"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/XT90PW-F/AMASS/view-part/?ref=eda"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "PARTREV" "V00"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/XT90PW-F/AMASS/view-part/?ref=snap"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MP" "XT90PW-F"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Availability" "Not in stock"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MANUFACTURER" "AMASS"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(symbol "XT90PW-F_0_0"
-				(polyline
-					(pts
-						(xy -10.16 2.54) (xy -1.27 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -10.16 -5.08) (xy -10.16 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.905 0.635)
-					(mid -1.2727 0)
-					(end -1.905 -0.635)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.905 -1.905)
-					(mid -1.2727 -2.54)
-					(end -1.905 -3.175)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -5.08) (xy -10.16 -5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy -1.27 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy -1.27 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -3.81) (xy -1.27 -5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 5.08)
-					(name "NEG"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "N"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 5.08)
-					(name "POS"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "P"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:GND"
 			(power global)
 			(pin_numbers
@@ -6555,10 +6185,10 @@
 		(uuid "b6b43aa3-8f40-42f2-a316-dfc8ffefae2e")
 	)
 	(junction
-		(at 39.37 187.96)
+		(at 35.56 187.96)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "bb6b85c6-3d2b-4124-9a5d-67b27416cc93")
+		(uuid "dd833c09-7ea6-4093-831e-0702c7d452aa")
 	)
 	(junction
 		(at 283.21 297.18)
@@ -6571,6 +6201,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e0a3cdcd-a231-4223-a966-70d4afca9600")
+	)
+	(junction
+		(at 38.1 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9621777-775f-4729-967e-ec03d7b644d4")
 	)
 	(no_connect
 		(at 113.03 213.36)
@@ -6798,7 +6434,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 187.96) (xy 39.37 187.96)
+			(xy 44.45 187.96) (xy 35.56 187.96)
 		)
 		(stroke
 			(width 0)
@@ -6858,7 +6494,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 185.42) (xy 46.99 182.88)
+			(xy 49.53 182.88) (xy 49.53 186.69)
 		)
 		(stroke
 			(width 0)
@@ -7118,6 +6754,16 @@
 	)
 	(wire
 		(pts
+			(xy 35.56 185.42) (xy 41.91 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44d503d6-7fd4-44b8-b728-c37ced9a5b67")
+	)
+	(wire
+		(pts
 			(xy 185.42 207.01) (xy 204.47 207.01)
 		)
 		(stroke
@@ -7135,16 +6781,6 @@
 			(type default)
 		)
 		(uuid "468517b1-552c-4061-a176-e218f7987cfe")
-	)
-	(wire
-		(pts
-			(xy 39.37 185.42) (xy 41.91 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48143214-d20d-4009-b77e-79466fac8fc8")
 	)
 	(wire
 		(pts
@@ -8018,6 +7654,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 182.88) (xy 38.1 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b930d87e-3c78-45ca-819c-3addc3f1d31b")
+	)
+	(wire
+		(pts
 			(xy 175.26 207.01) (xy 185.42 207.01)
 		)
 		(stroke
@@ -8168,7 +7814,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 185.42) (xy 64.77 185.42)
+			(xy 64.77 186.69) (xy 67.31 186.69)
 		)
 		(stroke
 			(width 0)
@@ -9107,7 +8753,7 @@
 		(uuid "43d42456-d7f8-4252-909f-60130eb36cb4")
 	)
 	(label "BATT_IN"
-		(at 46.99 182.88 90)
+		(at 49.53 182.88 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9887,7 +9533,7 @@
 		(uuid "b4919ffb-fe9f-412d-a7e4-625af7ede222")
 	)
 	(label "BATT+"
-		(at 64.77 185.42 0)
+		(at 67.31 186.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10378,7 +10024,7 @@
 			(uuid "cfa04554-1033-4438-a4d9-3c29da23780c")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "D7")
 					(unit 1)
@@ -10455,7 +10101,7 @@
 			(uuid "71128d9d-014d-4538-8e6b-940ad139e582")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR024")
 					(unit 1)
@@ -10532,7 +10178,7 @@
 			(uuid "b8d88444-3ca1-4196-9f95-3fdb4607f3ca")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR055")
 					(unit 1)
@@ -10614,7 +10260,7 @@
 			(uuid "81c4d1b1-fa61-4b02-8c47-3c07d192032a")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R12")
 					(unit 1)
@@ -10695,7 +10341,7 @@
 			(uuid "45f53acb-903c-4401-aab6-b28aca25f9c1")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C25")
 					(unit 1)
@@ -10773,7 +10419,7 @@
 			(uuid "3f45a790-dbec-462d-81c0-3421ee4fafbd")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR054")
 					(unit 1)
@@ -10851,7 +10497,7 @@
 			(uuid "79f4529e-2f0f-41f6-a411-ba03634555c7")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR09")
 					(unit 1)
@@ -10861,7 +10507,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 39.37 185.42 0)
+		(at 38.1 182.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10871,7 +10517,7 @@
 		(dnp no)
 		(uuid "0d925123-958f-4c33-9e5f-4970ca9950c6")
 		(property "Reference" "#FLG01"
-			(at 39.37 183.515 0)
+			(at 38.1 180.975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10882,7 +10528,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 40.64 181.864 0)
+			(at 39.37 179.324 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10892,7 +10538,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 39.37 185.42 0)
+			(at 38.1 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10903,7 +10549,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 185.42 0)
+			(at 38.1 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10914,7 +10560,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 39.37 185.42 0)
+			(at 38.1 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10928,7 +10574,7 @@
 			(uuid "cf438475-8c3d-491b-9803-d26040b583bf")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG01")
 					(unit 1)
@@ -11006,7 +10652,7 @@
 			(uuid "488b34e4-ab6a-4049-8275-c568dffd69d3")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR05")
 					(unit 1)
@@ -11089,7 +10735,7 @@
 			(uuid "9da79180-1075-4910-9103-9263190cf5cb")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J6")
 					(unit 1)
@@ -11171,7 +10817,7 @@
 			(uuid "bc1d620b-aec7-4b57-8916-c83473c4e143")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C11")
 					(unit 1)
@@ -11253,7 +10899,7 @@
 			(uuid "fd5adfed-73c0-4e56-84d8-e7eba6be9a82")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R25")
 					(unit 1)
@@ -11350,7 +10996,7 @@
 			(uuid "a6567c13-0ced-4046-b113-607fcafc0587")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U6")
 					(unit 1)
@@ -11551,7 +11197,7 @@
 			(uuid "f9481a59-8d9a-4554-9c66-d352f59712ab")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U8")
 					(unit 1)
@@ -11629,7 +11275,7 @@
 			(uuid "9a69426f-292f-42c0-a00e-55a62bedf07d")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR011")
 					(unit 1)
@@ -11707,7 +11353,7 @@
 			(uuid "f3f228fc-0b70-4a83-be17-a9d7fca951ed")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR036")
 					(unit 1)
@@ -11825,7 +11471,7 @@
 			(uuid "606b444b-6fd9-4a63-9efd-d3dd23b5c04e")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U4")
 					(unit 3)
@@ -11904,7 +11550,7 @@
 			(uuid "ac127638-440c-4aed-81b9-c1c1e1138948")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R10")
 					(unit 1)
@@ -11983,7 +11629,7 @@
 			(uuid "6dc43692-7173-481f-b3f8-57dabcab842d")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG010")
 					(unit 1)
@@ -12066,7 +11712,7 @@
 			(uuid "8c9e6bcd-3096-4ee3-a223-b5a48aada2c1")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C1")
 					(unit 1)
@@ -12149,7 +11795,7 @@
 			(uuid "cf928166-b472-47c1-8040-3c60e6854311")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J2")
 					(unit 1)
@@ -12227,7 +11873,7 @@
 			(uuid "9a51cfd5-c91d-461e-93bf-fde2368a601b")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR021")
 					(unit 1)
@@ -12446,7 +12092,7 @@
 			(uuid "872ce8cb-941b-44d2-9b2a-264889b3e670")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "Q2")
 					(unit 1)
@@ -12523,7 +12169,7 @@
 			(uuid "bce296bc-51bb-4c35-946b-d1d35c21c867")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR02")
 					(unit 1)
@@ -12600,7 +12246,7 @@
 			(uuid "4f36abfe-5c81-4e75-a2c2-29b440ff935f")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR039")
 					(unit 1)
@@ -12677,7 +12323,7 @@
 			(uuid "a2e9713e-2a36-4a63-8523-3b310ee1614c")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR037")
 					(unit 1)
@@ -12757,7 +12403,7 @@
 			(uuid "b257b540-d2cd-4245-96be-f0232099d6e1")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R1")
 					(unit 1)
@@ -12839,7 +12485,7 @@
 			(uuid "3c9ef094-28bc-465e-bc95-25a851be44a6")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R18")
 					(unit 1)
@@ -12923,7 +12569,7 @@
 			(uuid "697b68e3-ba33-4cb2-89e1-d88ad7336a82")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J12")
 					(unit 1)
@@ -13001,7 +12647,7 @@
 			(uuid "951c156c-f938-4b05-92aa-5f323befb4fe")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR013")
 					(unit 1)
@@ -13084,9 +12730,91 @@
 			(uuid "61fca1bb-413a-485f-a132-3f26daaa1de8")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 30.48 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "389cec62-c60b-44be-81db-c66b53d2d303")
+		(property "Reference" "J13"
+			(at 31.115 182.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 29.8451 189.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "QS8_S_Connectors:QS8-S-M_Vertical_DirectCup"
+			(at 30.48 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 30.48 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "28e37dd0-3fbb-486b-ba0b-739733e29e57")
+		)
+		(pin "1"
+			(uuid "cb784cce-a9e2-4e7f-b17f-be709d882b1c")
+		)
+		(instances
+			(project "PDC_new (2)"
+				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -13166,7 +12894,7 @@
 			(uuid "ea1d0856-614d-4511-86de-45c374805d2e")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R13")
 					(unit 1)
@@ -13249,7 +12977,7 @@
 			(uuid "7c2f1e5c-7c86-42c2-bb6e-46c0eba66e4d")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C4")
 					(unit 1)
@@ -13463,7 +13191,7 @@
 			(uuid "4aa361d4-74af-44b1-b8d4-b42740333c70")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U9")
 					(unit 1)
@@ -13545,7 +13273,7 @@
 			(uuid "5d41b11b-4ef1-4ee2-a8b2-fd5a51102778")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R17")
 					(unit 1)
@@ -13624,7 +13352,7 @@
 			(uuid "578a97ae-158f-457b-b3a2-d9a74db8f7ac")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C22")
 					(unit 1)
@@ -13705,7 +13433,7 @@
 			(uuid "71b8353a-af52-4cb7-919e-33f618721ad8")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C16")
 					(unit 1)
@@ -13782,7 +13510,7 @@
 			(uuid "12f84178-9835-4dbe-8d07-4da090513df1")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR017")
 					(unit 1)
@@ -13931,7 +13659,7 @@
 			(uuid "aa72494b-ec8a-43d8-b0c9-02278f782d00")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "F4")
 					(unit 1)
@@ -14008,7 +13736,7 @@
 			(uuid "1879a878-684f-40b6-9f21-f7b7af096370")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR023")
 					(unit 1)
@@ -14089,7 +13817,7 @@
 			(uuid "792ec332-124d-4324-bdc7-98403e38e6ca")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C9")
 					(unit 1)
@@ -14170,7 +13898,7 @@
 			(uuid "84d16b2e-234a-455b-a84a-b337ffbf1634")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C26")
 					(unit 1)
@@ -14247,7 +13975,7 @@
 			(uuid "a3569bfa-bab0-409c-a14e-3ef6cc376230")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR041")
 					(unit 1)
@@ -14328,7 +14056,7 @@
 			(uuid "e44d3b98-1a8d-45ff-a4b7-a73bd4bfb95a")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C18")
 					(unit 1)
@@ -14409,7 +14137,7 @@
 			(uuid "c16584bd-2661-4bd6-93db-89d7203075aa")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C19")
 					(unit 1)
@@ -14487,7 +14215,7 @@
 			(uuid "ccea194a-3d1e-43d4-bce5-bcad7d800ff0")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR027")
 					(unit 1)
@@ -14569,7 +14297,7 @@
 			(uuid "b4d910b2-2dd2-48b8-a9e9-591b803f3fa0")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R11")
 					(unit 1)
@@ -14647,7 +14375,7 @@
 			(uuid "5ae3b5da-ba6e-48cb-85e9-2b01da78ede7")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR08")
 					(unit 1)
@@ -14761,7 +14489,7 @@
 			(uuid "e7a7a230-0b6a-4561-a7be-90fd6b97c575")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U5")
 					(unit 1)
@@ -14878,7 +14606,7 @@
 			(uuid "606b444b-6fd9-4a63-9efd-d3dd23b5c04f")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U4")
 					(unit 1)
@@ -14961,7 +14689,7 @@
 			(uuid "c05fe841-26d6-403b-ae17-f7797617311c")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C2")
 					(unit 1)
@@ -15063,7 +14791,7 @@
 			(uuid "f0688db6-ebf7-4f5b-bb8b-f7aaa127c70e")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "D3")
 					(unit 1)
@@ -15141,7 +14869,7 @@
 			(uuid "c2e5d851-9a99-4cea-9abc-a77c67a32011")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR012")
 					(unit 1)
@@ -15238,7 +14966,7 @@
 			(uuid "09511059-f340-40b1-b156-a0ad446ebf9f")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U7")
 					(unit 1)
@@ -15315,7 +15043,7 @@
 			(uuid "513e20b9-11e6-4bdb-97c2-5cb444cb5015")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR033")
 					(unit 1)
@@ -15396,7 +15124,7 @@
 			(uuid "1d7bca1d-d7ef-4b9f-8bd5-fc776db05155")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C17")
 					(unit 1)
@@ -15475,7 +15203,7 @@
 			(uuid "721abd46-2368-4752-8cf0-3e21213a32f1")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG05")
 					(unit 1)
@@ -15558,7 +15286,7 @@
 			(uuid "d8f59750-858d-4aad-94c2-fdae1570d010")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J10")
 					(unit 1)
@@ -15640,7 +15368,7 @@
 			(uuid "bf2fc278-0eee-4d45-b2f9-720d94a10464")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R26")
 					(unit 1)
@@ -15718,7 +15446,7 @@
 			(uuid "a5be159e-f958-4df9-9223-2a4d750c186b")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR028")
 					(unit 1)
@@ -15815,7 +15543,7 @@
 			(uuid "9e17aec2-d6b9-4224-a391-fb519a492e5a")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U14")
 					(unit 1)
@@ -15893,7 +15621,7 @@
 			(uuid "a94e0c7a-f07c-4cda-ac62-b7b98efe422a")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR010")
 					(unit 1)
@@ -15903,7 +15631,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 39.37 187.96 180)
+		(at 35.56 187.96 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15913,7 +15641,7 @@
 		(dnp no)
 		(uuid "7c268a6d-9a10-41fe-9e0a-4b7ef767e70f")
 		(property "Reference" "#FLG02"
-			(at 39.37 189.865 0)
+			(at 35.56 189.865 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15924,7 +15652,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 37.338 192.024 0)
+			(at 33.528 192.024 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15934,7 +15662,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 39.37 187.96 0)
+			(at 35.56 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15945,7 +15673,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 187.96 0)
+			(at 35.56 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15956,7 +15684,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 39.37 187.96 0)
+			(at 35.56 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15970,7 +15698,7 @@
 			(uuid "6f165b6c-ebac-4a91-ac20-3f9284a26d61")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG02")
 					(unit 1)
@@ -16052,7 +15780,7 @@
 			(uuid "ef51a4e3-6c55-43aa-b904-29d3a5feb9b0")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R6")
 					(unit 1)
@@ -16134,7 +15862,7 @@
 			(uuid "0047f06e-4da2-406a-a05b-47ac35c8b764")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R16")
 					(unit 1)
@@ -16227,7 +15955,7 @@
 			(uuid "9c89fb59-7c40-4418-906d-2792cedb8547")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "D4")
 					(unit 1)
@@ -16309,7 +16037,7 @@
 			(uuid "c5a79efd-5c03-4600-a98d-328396311186")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R3")
 					(unit 1)
@@ -16387,7 +16115,7 @@
 			(uuid "b51224cd-cb5a-4a97-a0e7-027ec181d635")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR025")
 					(unit 1)
@@ -16465,7 +16193,7 @@
 			(uuid "dd367b94-b48f-4c6c-986c-d1f1fb02d817")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR043")
 					(unit 1)
@@ -16547,7 +16275,7 @@
 			(uuid "fd545e97-75a2-47bc-9bdf-9e19e43dedb5")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R21")
 					(unit 1)
@@ -16629,7 +16357,7 @@
 			(uuid "6e5a2ca5-7fcc-49da-a989-250f9f72f6a1")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C13")
 					(unit 1)
@@ -16707,7 +16435,7 @@
 			(uuid "3e2fac50-512f-4835-8082-4b0b05f1c4a8")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR020")
 					(unit 1)
@@ -16788,7 +16516,7 @@
 			(uuid "363b2b58-a9d7-4a8a-bd3f-dcb09b1fcf20")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C23")
 					(unit 1)
@@ -16866,7 +16594,7 @@
 			(uuid "6e27e833-b8bd-4e29-b6ff-1570d4ecda81")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR032")
 					(unit 1)
@@ -16944,7 +16672,7 @@
 			(uuid "82e9175a-12ad-48f3-aa4c-ae2349942d2a")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR044")
 					(unit 1)
@@ -17026,7 +16754,7 @@
 			(uuid "87c7af8f-8e82-4cf8-a174-409a8416e1f0")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R5")
 					(unit 1)
@@ -17109,7 +16837,7 @@
 			(uuid "2d69d555-e09d-434a-af0e-ac6ca2308c37")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J14")
 					(unit 1)
@@ -17187,7 +16915,7 @@
 			(uuid "36cff219-fd82-4eb6-858d-0e1d27b9636c")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR029")
 					(unit 1)
@@ -17265,7 +16993,7 @@
 			(uuid "d80292b3-4b2e-4dd4-afd2-ff32bfcd08eb")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR053")
 					(unit 1)
@@ -17346,7 +17074,7 @@
 			(uuid "a6bd2040-a069-49a4-8a57-1dcf6d2f8189")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C5")
 					(unit 1)
@@ -17423,7 +17151,7 @@
 			(uuid "890b436b-474d-481d-bf10-738a5279c9cf")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR06")
 					(unit 1)
@@ -17500,7 +17228,7 @@
 			(uuid "73fd0cfe-e6c3-4697-aedf-c351fc0f2a75")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR040")
 					(unit 1)
@@ -17583,7 +17311,7 @@
 			(uuid "bd24d8ae-eca6-4807-91bb-90fd116b9f1a")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J5")
 					(unit 1)
@@ -17660,7 +17388,7 @@
 			(uuid "fe731364-9156-4065-b6f2-dfb29e1893ea")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR042")
 					(unit 1)
@@ -17762,7 +17490,7 @@
 			(uuid "eea640c9-5e8d-40e3-9a2a-ece59b89c87b")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "D1")
 					(unit 1)
@@ -17840,7 +17568,7 @@
 			(uuid "69eb59c6-6657-45a7-8226-68c02c984f23")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR018")
 					(unit 1)
@@ -17920,7 +17648,7 @@
 			(uuid "54b58b67-15f3-46f3-8b42-508485f2b83f")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R24")
 					(unit 1)
@@ -17999,7 +17727,7 @@
 			(uuid "ad9e0e9a-d46a-4ad2-ae75-f1436c491804")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG08")
 					(unit 1)
@@ -18082,7 +17810,7 @@
 			(uuid "579f310a-787d-445e-a880-0277cd3323e8")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J15")
 					(unit 1)
@@ -18308,7 +18036,7 @@
 			(uuid "05705456-aabf-4d84-a45a-d81c33cfb848")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "D2")
 					(unit 1)
@@ -18386,7 +18114,7 @@
 			(uuid "d98defb3-0749-4e73-9313-9ce15d40c227")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR031")
 					(unit 1)
@@ -18467,7 +18195,7 @@
 			(uuid "6e4aef03-fee6-4717-af97-7a4f055c1b1a")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C21")
 					(unit 1)
@@ -18544,7 +18272,7 @@
 			(uuid "b76cb51e-b200-49e2-8248-89d51b4c8633")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG04")
 					(unit 1)
@@ -18621,7 +18349,7 @@
 			(uuid "0ca05df8-2eb5-47d5-b296-bfcd6e5b28fe")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR026")
 					(unit 1)
@@ -18721,7 +18449,7 @@
 			(uuid "fd26a07e-7966-4944-a05f-65e52c042a15")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U2")
 					(unit 1)
@@ -18858,7 +18586,7 @@
 			(uuid "e01e1c47-9ea4-4faf-af0f-aa258938cd7f")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J11")
 					(unit 1)
@@ -18940,7 +18668,7 @@
 			(uuid "373f7f0d-64f2-4d43-80b4-a5a7ace7b221")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R27")
 					(unit 1)
@@ -19019,223 +18747,9 @@
 			(uuid "e0c0eec0-9353-4a02-b9c3-b732b2be60ba")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "XT90I:XT90PW-F")
-		(at 34.29 185.42 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c3d3bae4-88da-4aed-9d42-1d538540835d")
-		(property "Reference" "J13"
-			(at 29.21 177.8 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "QS8"
-			(at 29.21 180.34 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "QS8_S_Connectors:QS8-S-M_Vertical_DirectCup"
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Socket, DC supply, XT90, female, PIN:2, on PCBs, THT"
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "AMASS"
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "10.3 mm"
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "Package"
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/XT90PW-F/AMASS/view-part/?ref=eda"
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "PARTREV" "V00"
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/XT90PW-F/AMASS/view-part/?ref=snap"
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "XT90PW-F"
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "Not in stock"
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "AMASS"
-			(at 34.29 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "P"
-			(uuid "6adb4b02-690e-4257-8738-dd6362ecb2e9")
-		)
-		(pin "N"
-			(uuid "fcf0ae8e-7936-47d9-8f23-eca4ec0d8b63")
-		)
-		(instances
-			(project "PDC_new"
-				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
-					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -19350,7 +18864,7 @@
 			(uuid "606b444b-6fd9-4a63-9efd-d3dd23b5c050")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U4")
 					(unit 2)
@@ -19432,7 +18946,7 @@
 			(uuid "6e0a9f93-3bdb-49b2-8e80-248a9e9d5814")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R22")
 					(unit 1)
@@ -19513,7 +19027,7 @@
 			(uuid "3a6d5e28-135e-47af-8eb1-80fdb361af04")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C6")
 					(unit 1)
@@ -19595,7 +19109,7 @@
 			(uuid "f9f082dd-eb7c-4a9d-8609-8d3c2f2364ab")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C12")
 					(unit 1)
@@ -19695,7 +19209,7 @@
 			(uuid "4b8e2809-b1a4-400a-8ad4-18835f1f08f6")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U10")
 					(unit 2)
@@ -19794,7 +19308,7 @@
 			(uuid "4b8e2809-b1a4-400a-8ad4-18835f1f08f7")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U10")
 					(unit 1)
@@ -19872,7 +19386,7 @@
 			(uuid "03e318ec-f3d5-4f60-88e9-fbd0765aa8f8")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR01")
 					(unit 1)
@@ -19950,7 +19464,7 @@
 			(uuid "5782d209-9119-48a5-abfa-c91989e00c10")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR035")
 					(unit 1)
@@ -20027,7 +19541,7 @@
 			(uuid "1f89d161-73fb-40d1-8f9b-021eb71091af")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR051")
 					(unit 1)
@@ -20105,7 +19619,7 @@
 			(uuid "327b6331-9607-4dc4-bbe0-7387e9984945")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR07")
 					(unit 1)
@@ -20182,7 +19696,7 @@
 			(uuid "72ee4c10-4c39-4621-be88-5330bf269d3c")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR049")
 					(unit 1)
@@ -20279,7 +19793,7 @@
 			(uuid "eea36290-3203-46c3-abc6-379c42a9b05e")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U11")
 					(unit 1)
@@ -20376,7 +19890,7 @@
 			(uuid "1020dfbf-52ce-4847-aeab-61e458c552c7")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U12")
 					(unit 1)
@@ -20459,7 +19973,7 @@
 			(uuid "d7f70207-6d72-4f49-a01a-4e84237a2482")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J9")
 					(unit 1)
@@ -20542,7 +20056,7 @@
 			(uuid "4100b9d7-b5aa-46bb-a558-8819c13209de")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J7")
 					(unit 1)
@@ -20660,7 +20174,7 @@
 			(uuid "f8924a0e-f8dc-4d86-8178-086111e9a035")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "RV1")
 					(unit 1)
@@ -20743,7 +20257,7 @@
 			(uuid "55eb79dd-2861-4e5e-b282-958454f681e6")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J4")
 					(unit 1)
@@ -20843,7 +20357,7 @@
 			(uuid "61d970cc-0253-4da9-bd10-6b69c7c27940")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U1")
 					(unit 1)
@@ -20945,7 +20459,7 @@
 			(uuid "5c5e3dbb-1278-40bb-a050-dd72c98c5526")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "D5")
 					(unit 1)
@@ -21027,7 +20541,7 @@
 			(uuid "7f77474c-6c96-40af-b99d-2fe7a561ac70")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R15")
 					(unit 1)
@@ -21105,7 +20619,7 @@
 			(uuid "98d7e64a-4184-4abe-be2d-f7c6a0738151")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR022")
 					(unit 1)
@@ -21183,7 +20697,7 @@
 			(uuid "18f32042-00e6-4373-b1dd-45bdb687858d")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR015")
 					(unit 1)
@@ -21261,7 +20775,7 @@
 			(uuid "ce5d02f4-2564-4340-b99b-3158c7afc157")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#FLG03")
 					(unit 1)
@@ -21343,7 +20857,7 @@
 			(uuid "32bd884f-c6b7-4f3d-8131-b0a684a30eb6")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R20")
 					(unit 1)
@@ -21425,7 +20939,7 @@
 			(uuid "058fbb62-016b-4346-8d46-bb532385848b")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R23")
 					(unit 1)
@@ -21508,7 +21022,7 @@
 			(uuid "f958485f-5d6a-47b4-a91e-8a33459abb9b")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J3")
 					(unit 1)
@@ -21590,7 +21104,7 @@
 			(uuid "b238fa80-c55a-4f71-bc9c-e50620f2c258")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C10")
 					(unit 1)
@@ -21668,7 +21182,7 @@
 			(uuid "bce8f245-a142-4b55-9758-93472fbac953")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR014")
 					(unit 1)
@@ -21746,7 +21260,7 @@
 			(uuid "1db61957-09f1-447e-8d5d-2ea120f4b0d2")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR019")
 					(unit 1)
@@ -21824,7 +21338,7 @@
 			(uuid "2adf0686-7b8f-4592-af99-8170ac9b3be9")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR038")
 					(unit 1)
@@ -21905,7 +21419,7 @@
 			(uuid "e93e14de-31e9-4e10-ac50-8caaecbe0967")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R9")
 					(unit 1)
@@ -21988,7 +21502,7 @@
 			(uuid "a2bb5ccb-90b6-4c28-9ff6-50001f9cd479")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J8")
 					(unit 1)
@@ -22070,7 +21584,7 @@
 			(uuid "8ea88e0f-906c-4c5b-b165-aa4eae0f3024")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R31")
 					(unit 1)
@@ -22152,7 +21666,7 @@
 			(uuid "76b22d28-985b-4125-a029-8421dc3df3fe")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R4")
 					(unit 1)
@@ -22230,7 +21744,7 @@
 			(uuid "5ead9a1c-366a-4de6-8e89-7e1e2cee2039")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR016")
 					(unit 1)
@@ -22240,7 +21754,7 @@
 	)
 	(symbol
 		(lib_id "3568-15:3568-15")
-		(at 54.61 185.42 0)
+		(at 57.15 186.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22251,7 +21765,7 @@
 		(fields_autoplaced yes)
 		(uuid "f88efd59-db1b-4b46-b0b8-957691be92ba")
 		(property "Reference" "F1"
-			(at 54.61 179.07 0)
+			(at 57.15 180.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22261,7 +21775,7 @@
 			)
 		)
 		(property "Value" "3568-15"
-			(at 54.61 181.61 0)
+			(at 57.15 182.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22271,7 +21785,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
-			(at 54.61 185.42 0)
+			(at 57.15 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22283,7 +21797,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 185.42 0)
+			(at 57.15 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22294,7 +21808,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 185.42 0)
+			(at 57.15 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22305,7 +21819,7 @@
 			)
 		)
 		(property "PARTREV" "C"
-			(at 54.61 185.42 0)
+			(at 57.15 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22317,7 +21831,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
-			(at 54.61 185.42 0)
+			(at 57.15 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22329,7 +21843,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "3568"
-			(at 54.61 185.42 0)
+			(at 57.15 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22341,7 +21855,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.37 mm"
-			(at 54.61 185.42 0)
+			(at 57.15 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22353,7 +21867,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 54.61 185.42 0)
+			(at 57.15 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22377,7 +21891,7 @@
 			(uuid "7cd44053-9e2f-4491-807b-c22ef5bbdcd9")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "F1")
 					(unit 1)
@@ -22459,7 +21973,7 @@
 			(uuid "02366bc7-703f-4d13-81aa-f2a53de93370")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "J1")
 					(unit 1)
@@ -22536,7 +22050,7 @@
 			(uuid "a37119b4-9266-4bd1-8604-b78bd69082ff")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR050")
 					(unit 1)
@@ -22614,7 +22128,7 @@
 			(uuid "2311aa76-f820-4e9b-8e6d-8fdd6bc71d5f")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR052")
 					(unit 1)
@@ -22695,7 +22209,7 @@
 			(uuid "d10c2596-57ee-4ef2-bc17-88ebe9a93dd9")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "C20")
 					(unit 1)
@@ -22772,7 +22286,7 @@
 			(uuid "c3f23b66-9d60-44a5-ae84-288d1172835c")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR034")
 					(unit 1)
@@ -22854,7 +22368,7 @@
 			(uuid "c449d9e5-0381-431c-9fa5-87509cbfd704")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R14")
 					(unit 1)
@@ -22936,7 +22450,7 @@
 			(uuid "5c00673f-c402-4988-b931-d759b2da49c1")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "R7")
 					(unit 1)
@@ -23014,7 +22528,7 @@
 			(uuid "8a6302ec-ccf5-4b9b-8975-cb034a4ad007")
 		)
 		(instances
-			(project "PDC_new"
+			(project "PDC_new (2)"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR04")
 					(unit 1)
