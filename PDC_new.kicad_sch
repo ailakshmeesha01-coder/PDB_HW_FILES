@@ -202,6 +202,24 @@
 					)
 				)
 				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
 					(at 7.62 0 180)
 					(length 2.54)
 					(name ""
@@ -220,24 +238,6 @@
 					)
 				)
 				(pin passive line
-					(at -7.62 0 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
 					(at 7.62 0 180)
 					(length 2.54)
 					(name ""
@@ -247,7 +247,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "2"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -6185,12 +6185,6 @@
 		(uuid "b6b43aa3-8f40-42f2-a316-dfc8ffefae2e")
 	)
 	(junction
-		(at 35.56 187.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dd833c09-7ea6-4093-831e-0702c7d452aa")
-	)
-	(junction
 		(at 283.21 297.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6207,6 +6201,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f9621777-775f-4729-967e-ec03d7b644d4")
+	)
+	(junction
+		(at 35.56 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fd27b741-6d4d-4467-a967-b6f145fe9bae")
 	)
 	(no_connect
 		(at 113.03 213.36)
@@ -6227,10 +6227,6 @@
 	(no_connect
 		(at 398.78 55.88)
 		(uuid "a4fc4e7b-a002-4061-9c6a-6f16faf7d2f1")
-	)
-	(no_connect
-		(at 492.76 36.83)
-		(uuid "f7c5614a-2a80-4334-804d-1bea044bd1f2")
 	)
 	(wire
 		(pts
@@ -7054,6 +7050,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 203.2) (xy 134.62 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71a16a36-3c1b-40cc-b536-dfc2fa698b7d")
+	)
+	(wire
+		(pts
 			(xy 198.12 67.31) (xy 195.58 67.31)
 		)
 		(stroke
@@ -7334,6 +7340,16 @@
 	)
 	(wire
 		(pts
+			(xy 411.48 255.27) (xy 408.94 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d5759e5-ed6d-482c-bd20-cf030bcac683")
+	)
+	(wire
+		(pts
 			(xy 477.52 36.83) (xy 474.98 36.83)
 		)
 		(stroke
@@ -7361,6 +7377,16 @@
 			(type default)
 		)
 		(uuid "9089d146-462d-48bf-803c-2686af769989")
+	)
+	(wire
+		(pts
+			(xy 492.76 36.83) (xy 497.84 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "921512ae-164c-4b44-9009-ab2f95bc2de6")
 	)
 	(wire
 		(pts
@@ -7451,6 +7477,16 @@
 			(type default)
 		)
 		(uuid "a0fa4670-b242-4926-b1df-20b8c3529f4c")
+	)
+	(wire
+		(pts
+			(xy 429.26 255.27) (xy 426.72 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a30f77b4-b3cf-4033-a3cf-17f448604b58")
 	)
 	(wire
 		(pts
@@ -7711,6 +7747,16 @@
 			(type default)
 		)
 		(uuid "bde08804-9277-4103-b4a0-a5a40908e220")
+	)
+	(wire
+		(pts
+			(xy 134.62 185.42) (xy 134.62 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be9d1932-83ce-48f4-9239-7310577d9c8b")
 	)
 	(wire
 		(pts
@@ -8802,6 +8848,16 @@
 		)
 		(uuid "4a014a29-3a7f-44c5-8432-e4c3f7363928")
 	)
+	(label "pre_fault_led"
+		(at 497.84 36.83 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4a865529-655e-46b5-beae-7df720bf0870")
+	)
 	(label "BUS+"
 		(at 54.61 251.46 90)
 		(effects
@@ -9072,6 +9128,16 @@
 		)
 		(uuid "6d5deee9-2c7c-4730-96a6-52157f6b2092")
 	)
+	(label "pre_fault_led"
+		(at 408.94 255.27 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6e018100-7e7a-4d80-972d-3117e5339a9e")
+	)
 	(label "GATE_MAIN"
 		(at 219.71 365.76 0)
 		(effects
@@ -9101,6 +9167,16 @@
 			(justify right bottom)
 		)
 		(uuid "7069a65b-52e1-4815-ad1d-590a8678afae")
+	)
+	(label "BATT+"
+		(at 134.62 182.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "73c31c52-a201-4ff6-a283-d8b9de07bc80")
 	)
 	(label "BUS+"
 		(at 26.67 251.46 90)
@@ -9975,26 +10051,28 @@
 		(fields_autoplaced yes)
 		(uuid "006053a9-204e-459a-8913-42a17b27d202")
 		(property "Reference" "D7"
-			(at 93.98 200.66 0)
+			(at 102.87 199.3899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "SMF15A"
-			(at 96.52 200.66 0)
+		(property "Value" "SMCJ54A"
+			(at 102.87 201.9299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMF"
+		(property "Footprint" "Diode_SMD:D_SMC"
 			(at 105.41 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -10005,7 +10083,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/doc?85881"
+		(property "Datasheet" ""
 			(at 100.33 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -10787,7 +10865,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 388.3152 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -11009,6 +11087,98 @@
 			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 415.29 255.27 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1694449d-c077-447c-836d-3df9084c224a")
+		(property "Reference" "D8"
+			(at 414.9725 248.2849 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LED"
+			(at 414.9725 250.8249 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 415.29 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 415.29 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 415.29 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 415.29 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3768897b-95a4-4584-9303-0c69e4081108")
+		)
+		(pin "2"
+			(uuid "09f1a81a-158b-4cc3-a317-5d257b2f3d78")
+		)
+		(instances
+			(project "PDC_new"
+				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -11892,6 +12062,165 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 134.62 203.2 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2172d1e4-e7c0-4899-97e4-94773c59b9e1")
+		(property "Reference" "#PWR030"
+			(at 134.62 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 134.62 208.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 134.62 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "793b3d2c-915a-4804-a62e-89cbd6b730f6")
+		)
+		(instances
+			(project "PDC_new"
+				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 422.91 255.27 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2454001f-093f-4cfc-8591-2ced8ca6ec67")
+		(property "Reference" "R19"
+			(at 421.005 249.5549 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "22k"
+			(at 421.005 252.0949 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 422.91 257.048 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 422.91 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 422.91 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f2c74650-e89b-4b5d-a05b-8076161a8f72")
+		)
+		(pin "1"
+			(uuid "90ad4f1c-a0a2-4189-871a-9ac88b67577f")
+		)
+		(instances
+			(project "PDC_new"
+				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "IRF540NSTRLPBF:IRF540NSTRLPBF")
 		(at 412.75 222.25 0)
 		(unit 1)
@@ -12749,88 +13078,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x02_Pin")
-		(at 30.48 185.42 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "389cec62-c60b-44be-81db-c66b53d2d303")
-		(property "Reference" "J13"
-			(at 31.115 182.88 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02_Pin"
-			(at 29.8451 189.23 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "QS8_S_Connectors:QS8-S-M_Vertical_DirectCup"
-			(at 30.48 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.48 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 30.48 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "28e37dd0-3fbb-486b-ba0b-739733e29e57")
-		)
-		(pin "1"
-			(uuid "cb784cce-a9e2-4e7f-b17f-be709d882b1c")
-		)
-		(instances
-			(project "PDC_new"
-				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
-					(reference "J13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 242.57 328.93 0)
 		(unit 1)
@@ -13210,6 +13457,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 429.26 255.27 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3bc49342-8e3f-45ce-96e2-bc2ca9c8aa1f")
+		(property "Reference" "#PWR045"
+			(at 435.61 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 434.34 255.27 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 429.26 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 429.26 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 429.26 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "87304783-4b3c-48bf-bf14-a331110677d1")
+		)
+		(instances
+			(project "PDC_new"
+				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 276.86 368.3 0)
 		(unit 1)
@@ -13579,17 +13904,17 @@
 				(justify bottom)
 			)
 		)
-		(pin "4"
-			(uuid "d644a2db-8d08-4681-9e8e-2d19e9fdd4a5")
-		)
-		(pin "3"
-			(uuid "c1bf66cc-7f5d-4641-9adb-6a5483706755")
-		)
 		(pin "1"
 			(uuid "eb497da4-9007-4608-86fc-a30265633ab8")
 		)
 		(pin "2"
 			(uuid "aa72494b-ec8a-43d8-b0c9-02278f782d00")
+		)
+		(pin "2"
+			(uuid "c430c310-8689-4dc6-883e-322a4245bd9f")
+		)
+		(pin "1"
+			(uuid "0f80777f-1f2a-40e8-8e71-6fb11461a969")
 		)
 		(instances
 			(project "PDC_new"
@@ -13710,7 +14035,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 171.1452 368.3 0)
 			(hide yes)
 			(show_name no)
@@ -13911,6 +14236,88 @@
 			(project "PDC_new"
 				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
 					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 30.48 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4b517d45-b1ca-4022-92b8-76bf35f9052b")
+		(property "Reference" "J13"
+			(at 28.956 183.896 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 29.8451 189.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "QS8_S_Connectors:QS8-S-M_Vertical_DirectCup"
+			(at 30.48 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 30.48 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d846a104-d5f0-466d-848f-7788b4a5c346")
+		)
+		(pin "1"
+			(uuid "662a3fee-8e70-461a-a3ef-0f3c6cd266b2")
+		)
+		(instances
+			(project "PDC_new"
+				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -15914,7 +16321,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 74.93 307.34 0)
 			(hide yes)
 			(show_name no)
@@ -16316,7 +16723,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.3 µF"
+		(property "Value" "4.7 µF"
 			(at 223.52 380.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17044,7 +17451,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
 			(at 35.2552 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -19046,6 +19453,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 134.62 196.85 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d24fc20d-823b-40bf-822e-2879e182bbc0")
+		(property "Reference" "R8"
+			(at 137.16 195.5799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22k"
+			(at 137.16 198.1199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 132.842 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 134.62 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8bf051a5-639f-4337-b965-0c0d0f98d7b3")
+		)
+		(pin "1"
+			(uuid "81a5fb76-ddea-4e47-ba0d-7213b6b42feb")
+		)
+		(instances
+			(project "PDC_new"
+				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 219.71 372.11 0)
 		(unit 1)
@@ -19068,7 +19557,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.3µF"
+		(property "Value" "4.7µF"
 			(at 223.52 373.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20876,6 +21365,99 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 134.62 189.23 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e9a6c701-5a95-4146-9096-f961faffefa6")
+		(property "Reference" "D6"
+			(at 138.43 189.5474 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LED"
+			(at 138.43 192.0874 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 134.62 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 134.62 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 134.62 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9bdb3836-785f-450f-8291-ab0704d95f0e")
+		)
+		(pin "2"
+			(uuid "be633d05-3a46-4526-8b6a-c1308ce0b05d")
+		)
+		(instances
+			(project "PDC_new"
+				(path "/671abb5b-543a-4728-a531-5a7ec9a38d76"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 283.21 290.83 0)
 		(unit 1)
@@ -21074,7 +21656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 388.3152 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -21888,17 +22470,17 @@
 				(justify bottom)
 			)
 		)
-		(pin "4"
-			(uuid "c1ddd472-1dba-4de2-b280-368edfac42c4")
-		)
-		(pin "3"
-			(uuid "1d01d8d6-8596-4804-9529-c169a7b343dc")
-		)
 		(pin "1"
 			(uuid "23a2b96e-4f02-4cec-b0c4-50635bf35059")
 		)
 		(pin "2"
 			(uuid "7cd44053-9e2f-4491-807b-c22ef5bbdcd9")
+		)
+		(pin "1"
+			(uuid "7f74d395-b0bd-410b-9d10-4654bbf3e2df")
+		)
+		(pin "2"
+			(uuid "a20e26ef-07aa-48bd-a1ef-76275aabc99d")
 		)
 		(instances
 			(project "PDC_new"
