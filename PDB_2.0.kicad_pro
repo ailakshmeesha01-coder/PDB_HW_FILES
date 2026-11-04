@@ -610,7 +610,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PDC_new.kicad_pro",
+    "filename": "PDB_2.0.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -646,7 +646,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../../",
+      "plot": "../../../../Downloads/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -916,8 +916,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "PDC_new.kicad_sch",
-        "name": "PDC_new",
+        "filename": "PDB_2.0.kicad_sch",
+        "name": "PDB_2.0",
         "uuid": "671abb5b-543a-4728-a531-5a7ec9a38d76"
       }
     ],
