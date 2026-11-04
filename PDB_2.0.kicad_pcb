@@ -89,7 +89,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -334,7 +333,7 @@
 		)
 		(path "/ae7a2c33-c4dd-4d24-8439-3eda7cbfb635")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -519,7 +518,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/4b517d45-b1ca-4022-92b8-76bf35f9052b")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -922,7 +921,7 @@
 		)
 		(path "/3a95a769-0c0a-4a59-a261-c162b609463f")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1369,7 +1368,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1694449d-c077-447c-836d-3df9084c224a")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1567,7 +1566,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/45d3f3ee-8d63-456f-8d2e-505762cfc922")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1715,7 +1714,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f4bc9e22-9376-4a1b-8b15-ddf4127358ec")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1846,7 +1845,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/f94aaa17-0f00-4500-a462-b6eb41b4c8e0")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2104,7 +2103,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/03cd51fd-c2b2-4c78-8ce4-69ee40d5366c")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2256,7 +2255,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e1959bef-faad-4774-9fa5-235ddb2965b2")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2514,7 +2513,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/39bae8c7-a656-479b-8677-1986301e3710")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2641,7 +2640,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/03b910c3-77ed-47e3-b311-3d6daa86db4b")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2768,7 +2767,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/3a3a7bed-b552-4b22-8d8a-34e90ef8bef0")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5971,7 +5970,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8962cd68-9f62-4478-bbb9-5fac341d344d")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6132,7 +6131,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4894eb78-0594-4f43-ab9d-e32746476235")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6285,7 +6284,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/314e60ff-08ad-4925-9e31-9a8edc0a7050")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6603,7 +6602,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3f642229-6888-4561-b9fa-bc5cc6402218")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6751,7 +6750,7 @@
 		(property ki_fp_filters "D0008A-IPC_A D0008A-IPC_B D0008A-IPC_C D0008A-MFG")
 		(path "/d4204042-d510-4ef4-9c6b-50c6359f9c06")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7128,7 +7127,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5120f5b6-420e-4c05-a68b-04297b5334a6")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7279,7 +7278,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/a242ffbc-5095-4c94-967e-1c4164198393")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7537,7 +7536,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/eb2facd0-56e0-407b-9d0e-48fdbce0738f")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7664,7 +7663,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b250097c-54fe-4342-a8da-565fb199f092")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7812,7 +7811,7 @@
 		(property ki_fp_filters "IPB017N10N5ATMA1_INF")
 		(path "/785f69bf-3129-4f16-81e7-7b10bde2aeea")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8334,7 +8333,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fa69dcc2-e03e-4d66-9875-b08c60c4d885")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8461,7 +8460,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/5e5699fe-8b03-47b2-8a37-bf0d7d61ed78")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11682,7 +11681,7 @@
 		(property ki_fp_filters "D*SOD?123*")
 		(path "/e2811f12-8142-4ec2-a81f-501e9e666453")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11939,7 +11938,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4fd528cf-b218-4007-b7c1-b1773e127378")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12087,7 +12086,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/45da0d2d-e414-48c5-976b-8ab837b3e8db")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12303,7 +12302,7 @@
 		)
 		(path "/416a2d24-e6b6-4ce1-94f7-73902d4a1821")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12510,7 +12509,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1c0e166f-c1dd-482a-a0d8-279600c2406d")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12641,7 +12640,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/aa2c2a0d-cd9d-4d39-862e-98cd0cf100ab")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12899,7 +12898,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/cde76d39-bac6-4222-8051-a2bdaef01ced")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13066,7 +13065,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/e0a0fbb8-5b7c-4473-88de-9399ced92fa0")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13252,7 +13251,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/85aaa8ae-b0e3-4760-b618-4a2437100eca")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13450,7 +13449,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7e8518b0-a60e-46ac-9b73-8eaa5a32c57b")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13577,7 +13576,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/14564453-d00d-4ddc-ac24-7dc278bbe345")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13704,7 +13703,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/128219e8-cc67-4986-8b9a-f59398a8229a")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13851,7 +13850,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/77009f0a-0f0e-4d1e-82e1-186d5aff3ec7")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13978,7 +13977,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2d4b82a6-34a5-4db7-bc50-e9712f50fa8c")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14131,7 +14130,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/df8d52e2-8308-4933-9dd2-7f2a41a10734")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14419,7 +14418,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a6e3865b-9c6e-4f66-94b7-f08d5611a7bb")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14670,7 +14669,7 @@
 		(property ki_fp_filters "D*SMF*")
 		(path "/006053a9-204e-459a-8913-42a17b27d202")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14961,7 +14960,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/76ef0636-2e59-48c4-ace5-020276bfcb90")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15219,7 +15218,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/cf6ef629-5807-4f9f-b2f4-f3519090d6dd")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17440,7 +17439,7 @@
 		)
 		(path "/258663a0-a5d6-4936-ad32-d7d7096c50b8")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17922,7 +17921,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/94148e6d-0d03-4e5b-aa23-c2488ed59292")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18071,7 +18070,7 @@
 		(property ki_fp_filters "IPB017N10N5ATMA1_INF")
 		(path "/dca98bdb-25ce-47f3-8ff5-5f76cbe12e07")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18597,7 +18596,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/122c8d2f-f8e5-411b-8b81-4059988ed4a9")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18859,7 +18858,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/df3b1e0d-338d-41fe-9e0f-ca670f7c86e7")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19121,7 +19120,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9a61b37b-a44f-4bd5-ac2f-2f2f23c83dcb")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19379,7 +19378,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8f726e6c-d26f-4e31-b6f7-cb796795ee3c")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19526,7 +19525,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5833fcf8-0100-479e-a93d-e797ece46264")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19653,7 +19652,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8b78621c-e583-45b6-9b85-c33b7075f49a")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19785,7 +19784,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/eb3ffc87-1964-4c7e-bf76-90be7ee14c6f")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20043,7 +20042,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d24fc20d-823b-40bf-822e-2879e182bbc0")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20203,7 +20202,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d8328d51-f5cf-4594-b0ad-1b0d92dd751b")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20352,7 +20351,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a87e3aa4-9556-4594-9be0-02a48dcb66aa")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20479,7 +20478,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fb923d21-a273-4db8-a4ff-054396f16ed4")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20632,7 +20631,7 @@
 		)
 		(path "/5b638679-abb4-4d80-9262-fcdf57956a68")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20902,7 +20901,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f717bcf7-2441-41a9-9cc8-74cca06e45cb")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21059,7 +21058,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/625315af-b126-4529-b125-1f5c47e1d24a")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21310,7 +21309,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/f52456f0-37e1-4b68-a79f-aca1b50543e4")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21568,7 +21567,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/fa32457f-f50c-4c31-93c8-adf8952ab845")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21716,7 +21715,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/70907d39-689e-4ed8-94a3-4d0791d3e257")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21865,7 +21864,7 @@
 		(property ki_fp_filters "IPB017N10N5ATMA1_INF")
 		(path "/d9975289-6b96-4182-9c6b-b7677714957a")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22387,7 +22386,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7c56fe3f-b72b-4d9f-a296-37f7b2b3e3a3")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22514,7 +22513,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b8c71b74-b545-409f-834c-afdfaf994736")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22689,7 +22688,7 @@
 		)
 		(path "/b7cadb5d-0b28-42cf-9db0-0bb1a2fcc08f")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23137,7 +23136,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f706515f-20a2-46df-bae2-5bd22967924a")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23265,7 +23264,7 @@
 		(property ki_fp_filters "DWZ0008A-IPC_A DWZ0008A-IPC_B DWZ0008A-IPC_C DWZ0008A-MFG")
 		(path "/b75e51ba-0f90-4597-bf31-848494fac93c")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23527,7 +23526,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/312dac2c-3042-40d3-a9a1-a97580eec8ca")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23619,7 +23618,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "3.3k"
 			(at 15.24 5.62 0)
 			(layer "F.Fab")
 			(uuid "9e1f1996-04b9-426d-b772-c9b12844c82f")
@@ -23655,7 +23654,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/98ed781e-1b70-408d-9361-d014e0642637")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23804,7 +23803,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/85f0fde9-4d83-45e4-af91-c829f8a428fb")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23932,7 +23931,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e806ac1a-4923-44d7-a6eb-9b1928e54286")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24060,7 +24059,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/1ee35924-b283-4eb3-9f5f-7d08ebee1b19")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27251,7 +27250,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/346fd544-b16f-4050-bef6-2e02430db76a")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30443,7 +30442,7 @@
 		(property ki_fp_filters "IPB017N10N5ATMA1_INF")
 		(path "/14c8b336-e6b2-4b16-af34-a1e22a358da2")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30965,7 +30964,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3c6b3cb6-4fae-4143-9eb2-434001df8ca3")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31092,7 +31091,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/6d49ca41-a386-4348-8312-1a03f5b70580")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31465,7 +31464,7 @@
 		(property ki_fp_filters "DWZ0008A-IPC_A DWZ0008A-IPC_B DWZ0008A-IPC_C DWZ0008A-MFG")
 		(path "/e19c527e-ad54-465a-86df-d83653cd726f")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31726,9 +31725,9 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm*")
-		(path "/5d8082a9-cf95-4f76-9553-ff6cb9b7cd72")
+		(path "/cde2bc3b-668b-448b-aedc-2c7ae7d0b699")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32168,7 +32167,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d2c1cbff-a7cb-49c5-8fe4-b0d27386dece")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32315,7 +32314,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2454001f-093f-4cfc-8591-2ced8ca6ec67")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32463,7 +32462,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3cbfdde7-541c-4414-9f92-3253f50ebcd3")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32699,7 +32698,7 @@
 		)
 		(path "/1781bbaa-bf00-4e17-9ea8-2822aa002072")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33052,7 +33051,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ed43e1ea-42d4-4610-a84c-a35208f7e7b5")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33212,7 +33211,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/e9a6c701-5a95-4146-9096-f961faffefa6")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33410,7 +33409,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e2f39844-9b33-4ab2-96de-1465739cf9c2")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33541,7 +33540,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/1f8f2d8b-403a-4f18-a171-80b2b2f23b14")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33799,7 +33798,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a0bf6b84-5308-4a08-a7ba-d5de88afe9ac")
 		(sheetname "/")
-		(sheetfile "PDC_new.kicad_sch")
+		(sheetfile "PDB_2.0.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -39349,6 +39348,54 @@
 		(uuid "f1c6c421-97d0-4684-a5fe-4304c98cc50e")
 	)
 	(segment
+		(start 238.755 203.74)
+		(end 238.765 203.75)
+		(width 2)
+		(layer "F.Cu")
+		(net "Net-(R1_A1-Pad2)")
+		(uuid "65b0f3dd-fca3-43bb-b842-b482e514f0f6")
+	)
+	(segment
+		(start 238.755 194)
+		(end 238.755 203.74)
+		(width 2)
+		(layer "F.Cu")
+		(net "Net-(R1_A1-Pad2)")
+		(uuid "904b1a2e-eb7e-49a0-80d6-5b9417e63d39")
+	)
+	(segment
+		(start 269.245 193.99)
+		(end 269.235 194)
+		(width 2)
+		(layer "F.Cu")
+		(net "Net-(R1_A2-Pad2)")
+		(uuid "addce426-cc3a-4f3c-a9fb-88176e6ab112")
+	)
+	(segment
+		(start 269.245 184.25)
+		(end 269.245 193.99)
+		(width 2)
+		(layer "F.Cu")
+		(net "Net-(R1_A2-Pad2)")
+		(uuid "ea332bba-1df0-4645-bf16-e87abae5bb0b")
+	)
+	(segment
+		(start 238.755 184.24)
+		(end 238.765 184.25)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(R1_A3-Pad2)")
+		(uuid "3b29c038-35a0-4558-af09-2bebaa68ad38")
+	)
+	(segment
+		(start 238.755 174.25)
+		(end 238.755 184.24)
+		(width 2)
+		(layer "F.Cu")
+		(net "Net-(R1_A3-Pad2)")
+		(uuid "8e18b99a-aeb8-448b-a2ab-55cb8f30f484")
+	)
+	(segment
 		(start 318.5 178.5)
 		(end 315.1 178.5)
 		(width 2)
@@ -40005,22 +40052,6 @@
 		(uuid "c9dc194e-223a-40cd-951e-6b2e5167a737")
 	)
 	(segment
-		(start 271.54 176.555)
-		(end 269.235 174.25)
-		(width 2)
-		(layer "F.Cu")
-		(net "/PRE_DRAIN")
-		(uuid "65939ae3-f6ba-431b-8ac4-109ac38503b9")
-	)
-	(segment
-		(start 279.5 176.555)
-		(end 271.54 176.555)
-		(width 2)
-		(layer "F.Cu")
-		(net "/PRE_DRAIN")
-		(uuid "c63f5e96-a976-4ec0-b2b3-9605cc2f33e3")
-	)
-	(segment
 		(start 332.5 188)
 		(end 332.5 188.74)
 		(width 1)
@@ -40155,6 +40186,22 @@
 		(layer "F.Cu")
 		(net "/BUCK_CTRL")
 		(uuid "ffcfb69e-21e8-439c-a148-f8b7f219a5cf")
+	)
+	(segment
+		(start 271.54 176.555)
+		(end 269.235 174.25)
+		(width 2)
+		(layer "F.Cu")
+		(net "/PRE_DRAIN")
+		(uuid "65939ae3-f6ba-431b-8ac4-109ac38503b9")
+	)
+	(segment
+		(start 279.5 176.555)
+		(end 271.54 176.555)
+		(width 2)
+		(layer "F.Cu")
+		(net "/PRE_DRAIN")
+		(uuid "c63f5e96-a976-4ec0-b2b3-9605cc2f33e3")
 	)
 	(segment
 		(start 288.5 223.375)
@@ -40779,54 +40826,6 @@
 		(layer "F.Cu")
 		(net "/RUN_OK")
 		(uuid "fc9026a9-9731-48fe-aea9-2457b1ccb32b")
-	)
-	(segment
-		(start 238.755 203.74)
-		(end 238.765 203.75)
-		(width 2)
-		(layer "F.Cu")
-		(net "Net-(R1_A1-Pad2)")
-		(uuid "65b0f3dd-fca3-43bb-b842-b482e514f0f6")
-	)
-	(segment
-		(start 238.755 194)
-		(end 238.755 203.74)
-		(width 2)
-		(layer "F.Cu")
-		(net "Net-(R1_A1-Pad2)")
-		(uuid "904b1a2e-eb7e-49a0-80d6-5b9417e63d39")
-	)
-	(segment
-		(start 269.245 193.99)
-		(end 269.235 194)
-		(width 2)
-		(layer "F.Cu")
-		(net "Net-(R1_A2-Pad2)")
-		(uuid "addce426-cc3a-4f3c-a9fb-88176e6ab112")
-	)
-	(segment
-		(start 269.245 184.25)
-		(end 269.245 193.99)
-		(width 2)
-		(layer "F.Cu")
-		(net "Net-(R1_A2-Pad2)")
-		(uuid "ea332bba-1df0-4645-bf16-e87abae5bb0b")
-	)
-	(segment
-		(start 238.755 184.24)
-		(end 238.765 184.25)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(R1_A3-Pad2)")
-		(uuid "3b29c038-35a0-4558-af09-2bebaa68ad38")
-	)
-	(segment
-		(start 238.755 174.25)
-		(end 238.755 184.24)
-		(width 2)
-		(layer "F.Cu")
-		(net "Net-(R1_A3-Pad2)")
-		(uuid "8e18b99a-aeb8-448b-a2ab-55cb8f30f484")
 	)
 	(zone
 		(net "GND")
